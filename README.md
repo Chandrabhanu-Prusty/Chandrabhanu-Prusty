@@ -77,6 +77,6 @@ I believe the best way to learn is by building, experimenting, failing, and impr
 ### Let's Connect
 
 * LinkedIn: [www.linkedin.com/in/chandrabhanu-prusty](http://www.linkedin.com/in/chandrabhanu-prusty)
-* Email: [chandrabhanuprusty@gmail.com](mailto:prustycb18@gmail.com)
+* Email: [prustycb18@gmail.com](mailto:prustycb18@gmail.com)
 
 *"Building one project at a time and learning something new every day."*

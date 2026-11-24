@@ -139,6 +139,4 @@ Additional learning: Generative AI · Gemini for Google Workspace · Prompt Engi
 
 *Build. Learn. Iterate. Repeat.*
 
-<sub>Chandrabhanu Prusty · Inspired by the <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> on <a href="https://www.gitskins.com/">GitSkins</a> · Pixel-art banner credited to Kirokaze.</sub>
-
 </div>

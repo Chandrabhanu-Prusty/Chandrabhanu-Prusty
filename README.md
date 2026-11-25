@@ -4,7 +4,7 @@
 
 **Computer Engineering Student · Full-Stack Developer · AI Product Builder**
 
-<img src="./assets/banner.gif" width="100%" alt="Retro pixel-art developer workspace" />
+<img src="./assets/banner-v2.gif" width="100%" alt="Retro pixel-art developer workspace" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrabhanu-prusty/) [![LeetCode](https://img.shields.io/badge/LeetCode-171717?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Chandrabhanu-Prusty/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prustycb18@gmail.com)
 
